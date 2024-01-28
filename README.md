@@ -25,11 +25,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Your_Color?style=flat-square&logo=tailwind-css&logoColor=white&color=2c3e50)
 ![WordPress](https://img.shields.io/badge/WordPress-Your_Color?style=flat-square&logo=wordpress&logoColor=white&color=2c3e50)
 ![React](https://img.shields.io/badge/React-Your_Color?style=flat-square&logo=react&logoColor=white&color=2c3e50)
-![SQL](https://img.shields.io/badge/SQL-Your_Color?style=flat-square&logo=sql&logoColor=white&color=2c3e50)
+![MySQL](https://img.shields.io/badge/MySQL-Your_Color?style=flat-square&logo=mysql&logoColor=white&color=2c3e50)
 ![Figma](https://img.shields.io/badge/Figma-Your_Color?style=flat-square&logo=figma&logoColor=white&color=2c3e50)
 ![Canva](https://img.shields.io/badge/Canva-Your_Color?style=flat-square&logo=canva&logoColor=white&color=2c3e50)
 ![Git](https://img.shields.io/badge/Git-Your_Color?style=flat-square&logo=git&logoColor=white&color=2c3e50)
 ![GitHub](https://img.shields.io/badge/GitHub-Your_Color?style=flat-square&logo=github&logoColor=white&color=2c3e50)
+
 
 
 ## 🏆 GitHub Badges
