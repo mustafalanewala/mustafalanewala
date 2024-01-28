@@ -1,6 +1,6 @@
 # Hie I am Mustafa Lanewala
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=darkgrey&logo=views&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=&logo=views&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=2a2b34&logo=&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=flat-square&color=2a2b34&logo=&logoColor=white)
 
