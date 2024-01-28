@@ -8,6 +8,7 @@ I am a Web Developer And Graphic Designer.
 
 - #### I regularly write articles on [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
 
+
 ## How to reach me
 
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:your-email@example.com)
@@ -18,9 +19,9 @@ I am a Web Developer And Graphic Designer.
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/your-telegram-username/)
 
 
-
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mustafalanewala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## Tech Stack
 
@@ -49,7 +50,7 @@ I am a Web Developer And Graphic Designer.
 
 ## Activity
 
-![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafalanewala&custom_title=Mustafa's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=00ffd2&line=00ffd2&point=00ffd2&area_color=FFFFFF&title_color=FFFFFF&area=true){: style="border: 1px solid #00ffd2;"}
+![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafalanewala&custom_title=Mustafa's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=00ffd2&line=00ffd2&point=00ffd2&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 ## Top Contributed Repo
