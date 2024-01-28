@@ -49,7 +49,7 @@ I am a Web Developer And Graphic Designer.
 
 ## Activity
 
-![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafalanewala&custom_title=Mustafa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafalanewala&custom_title=Mustafa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00ffd2&line=00ffd2&point=00ffd2&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 ## Top Contributed Repo
