@@ -1,6 +1,6 @@
 # Hello I Am Mustafa Lanewala
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat&color=black&logo=views&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat&color=red&logo=views&logoColor=white)
 
 I am a Web Developer And Graphic Designer.
 
