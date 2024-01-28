@@ -44,9 +44,9 @@ I am a Web Developer And Graphic Designer.
 ## GitHub Stats
 
 <p align="center"> 
-
-![](https://github-readme-stats.vercel.app/api?username=Mustafalanewala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false alt="Mustafa Lanewala" width="445")<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafalanewala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact width="390")
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=true" width="445" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafalanewala&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Mustafa Lanewala" width="390"/>
+  
 
 </p>
 
