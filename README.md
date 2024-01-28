@@ -8,7 +8,7 @@ I am a Web Developer And Graphic Designer.
 
 - #### I regularly write articles on [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
 
-- #### How to reach me
+## How to reach me
 
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile/)
