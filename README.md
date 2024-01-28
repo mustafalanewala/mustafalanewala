@@ -10,6 +10,7 @@ I am a Web Developer And Graphic Designer.
 
 - #### How to reach me
 
+[![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/your-instagram-profile/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&style=for-the-badge)](https://codepen.io/your-codepen-profile/)
