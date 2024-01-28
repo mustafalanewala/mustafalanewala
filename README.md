@@ -1,8 +1,8 @@
 <img src="banner.jpg" alt="Your Image" width="100%">
 
-## Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">I am Mustafa Lanewala</h2>
+## Hello I Am Mustafa Lanewala
 
-[Your headline or a short introduction goes here.]
+[I am a Web Developer And Graphic Designer.]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
 
