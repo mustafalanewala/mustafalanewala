@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafalanewala&label=Profile%20views&color=0e75b6&style=flat" alt="mustafalanewala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafalanewala" alt="mustafalanewala" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
 
@@ -26,8 +25,3 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mustafalanewala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafalanewala&show_icons=true&locale=en&layout=compact" alt="mustafalanewala" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafalanewala&show_icons=true&locale=en" alt="mustafalanewala" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafalanewala&" alt="mustafalanewala" /></p>
