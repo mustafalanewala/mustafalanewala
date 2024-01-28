@@ -1,14 +1,12 @@
 # Hie I am Mustafa Lanewala
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat&color=red&logo=views&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=red&logo=views&logoColor=white)
 
 
-![Stars](https://github-readme-starred-repos.vercel.app/api?username=Mustafalanewala)
+![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=2a2b34&logo=github&logoColor=white)
 
 
-![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=social)
-
-
+![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=flat-square&color=2a2b34&logo=github&logoColor=white)
 
 
 I am a Web Developer And Graphic Designer.
