@@ -1,6 +1,6 @@
 # Hello I Am Mustafa Lanewala
 
-[![Profile Views](https://views.whatilearened.today/views/github/Mustafalanewala/all.svg?style=for-the-badge)](https://github.com/Mustafalanewala)
+[![Profile Views](https://views.whatilearened.today/views/github/mustafalanewala/all.svg?style=for-the-badge)](https://github.com/mustafalanewala)
 
 I am a Web Developer And Graphic Designer.
 
