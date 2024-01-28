@@ -10,14 +10,14 @@ I am a Web Developer And Graphic Designer.
 
 - #### How to reach me
 
-[![Email](https://img.shields.io/badge/Email-Your_Email-blue?style=flat-square&logo=gmail&logoColor=white&color=2c3e50&labelColor=2c3e50)](mailto:your_email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=2c3e50&labelColor=2c3e50)](link_to_linkedin_profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white&color=2c3e50&labelColor=2c3e50)](link_to_twitter_profile)
+[![Email](https://img.shields.io/badge/Email-Your_Email-blue?style=flat-square&logo=gmail&logoColor=white&color=222&labelColor=2c3e50)](mailto:your_email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=222&labelColor=2c3e50)](link_to_linkedin_profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white&color=222&labelColor=2c3e50)](link_to_twitter_profile)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mustafalanewala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-##Tech Stack
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-Your_Color?style=flat-square&logo=html5&logoColor=white&color=222&labelColor=222)
 ![CSS](https://img.shields.io/badge/CSS-Your_Color?style=flat-square&logo=css3&logoColor=white&color=222&labelColor=222)
