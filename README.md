@@ -6,11 +6,11 @@ I am a Web Developer And Graphic Designer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
 
-- ## All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
+- ### All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
 
-## I regularly write articles on [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
+- ### I regularly write articles on [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
 
-## How to reach me
+- ### How to reach me
 
 [![Email](https://img.shields.io/badge/Email-Your_Email-blue?style=flat-square&logo=gmail&logoColor=white&color=2c3e50&labelColor=2c3e50)](mailto:your_email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=2c3e50&labelColor=2c3e50)](link_to_linkedin_profile)
