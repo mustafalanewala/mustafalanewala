@@ -1,8 +1,8 @@
 # Hello I Am Mustafa Lanewala
 
-I am a Web Developer And Graphic Designer.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
+
+I am a Web Developer And Graphic Designer.
 
 - #### All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
 
