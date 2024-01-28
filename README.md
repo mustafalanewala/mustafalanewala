@@ -42,8 +42,9 @@ I am a Web Developer And Graphic Designer.
 
 
 ## GitHub Stats
+<p align="center"> 
 ![](https://github-readme-stats.vercel.app/api?username=Mustafalanewala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafalanewala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+</p>
 ## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mustafalanewala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
