@@ -1,7 +1,5 @@
 # Hello I Am Mustafa Lanewala
 
-[![](https://visitcount.itsvg.in/api?id=Mustafalanewala&icon=5&color=9)](https://visitcount.itsvg.in)
-
 I am a Web Developer And Graphic Designer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
