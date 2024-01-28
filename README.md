@@ -1,7 +1,6 @@
 # Hello I Am Mustafa Lanewala
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=000&label=Profile+Views&query=%24.views&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fhits%2FMustafalanewala&style=for-the-badge)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=for-the-badge&color=blue&logo=views&logoColor=white)
 
 I am a Web Developer And Graphic Designer.
 
