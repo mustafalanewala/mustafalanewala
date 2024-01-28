@@ -6,15 +6,18 @@ I am a Web Developer And Graphic Designer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
 
-- 👨‍💻 All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
+- ##All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
 
-- 📝 I regularly write articles on [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
+- ##I regularly write articles on [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
 
-- 📫 How to reach me
+- ##How to reach me
 
 [![Email](https://img.shields.io/badge/Email-Your_Email-blue?style=flat-square&logo=gmail&logoColor=white&color=2c3e50&labelColor=2c3e50)](mailto:your_email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&color=2c3e50&labelColor=2c3e50)](link_to_linkedin_profile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white&color=2c3e50&labelColor=2c3e50)](link_to_twitter_profile)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mustafalanewala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## Tech Stack
 
@@ -33,14 +36,6 @@ I am a Web Developer And Graphic Designer.
 ![Canva](https://img.shields.io/badge/Canva-Your_Color?style=flat-square&logo=canva&logoColor=white&color=2c3e50)
 ![Git](https://img.shields.io/badge/Git-Your_Color?style=flat-square&logo=git&logoColor=white&color=2c3e50)
 ![GitHub](https://img.shields.io/badge/GitHub-Your_Color?style=flat-square&logo=github&logoColor=white&color=2c3e50)
-
-
-
-## GitHub Badges
-
-[![Badge 1](https://img.shields.io/badge/Badge1-Your_Color?style=flat-square&color=2c3e50)](link_to_badge1)
-[![Badge 2](https://img.shields.io/badge/Badge2-Your_Color?style=flat-square&color=2c3e50)](link_to_badge2)
-...
 
 ## GitHub Stats
 
