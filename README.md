@@ -16,21 +16,22 @@ I am a Web Developer And Graphic Designer.
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-Your_Color?style=flat-square&logo=html5&logoColor=white&color=222&labelColor=222)
-![CSS](https://img.shields.io/badge/CSS-Your_Color?style=flat-square&logo=css3&logoColor=white&color=222&labelColor=222)
-![JavaScript](https://img.shields.io/badge/JavaScript-Your_Color?style=flat-square&logo=javascript&logoColor=white&color=222&labelColor=222)
-![Python](https://img.shields.io/badge/Python-Your_Color?style=flat-square&logo=python&logoColor=white&color=222&labelColor=222)
-![Java](https://img.shields.io/badge/Java-Your_Color?style=flat-square&logo=java&logoColor=white&color=222&labelColor=222)
-![C](https://img.shields.io/badge/C-Your_Color?style=flat-square&logo=c&logoColor=white&color=222&labelColor=222)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Your_Color?style=flat-square&logo=bootstrap&logoColor=white&color=222&labelColor=222)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Your_Color?style=flat-square&logo=tailwind-css&logoColor=white&color=222&labelColor=222)
-![WordPress](https://img.shields.io/badge/WordPress-Your_Color?style=flat-square&logo=wordpress&logoColor=white&color=222&labelColor=222)
-![React](https://img.shields.io/badge/React-Your_Color?style=flat-square&logo=react&logoColor=white&color=222&labelColor=222)
-![MySQL](https://img.shields.io/badge/MySQL-Your_Color?style=flat-square&logo=mysql&logoColor=white&color=222&labelColor=222)
-![Figma](https://img.shields.io/badge/Figma-Your_Color?style=flat-square&logo=figma&logoColor=white&color=222&labelColor=222)
-![Canva](https://img.shields.io/badge/Canva-Your_Color?style=flat-square&logo=canva&logoColor=white&color=222&labelColor=222)
-![Git](https://img.shields.io/badge/Git-Your_Color?style=flat-square&logo=git&logoColor=white&color=222&labelColor=222)
-![GitHub](https://img.shields.io/badge/GitHub-Your_Color?style=flat-square&logo=github&logoColor=white&color=222&labelColor=222)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Mustafalanewala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
