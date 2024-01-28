@@ -1,6 +1,6 @@
 <img src="banner.jpg" alt="Your Image" width="100%">
 
-# 👋 Hello, I'm [Your Name]!
+## Hello<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">I am Mustafa Lanewala</h2>
 
 [Your headline or a short introduction goes here.]
 
