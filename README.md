@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Mustafalanewala?label=Followers) ![Stars](https://img.shields.io/github/stars/Mustafalanewala?label=Stars)
+![Walktime Stats](https://github-readme-stats.vercel.app/api/walktime?username=Mustafalanewala)
+![Followers](https://img.shields.io/github/followers/Mustafalanewala?label=Followers) ![Stars](https://img.shields.io/github/stars/Mustafalanewala?label=Stars)
 
 
 I am a Web Developer And Graphic Designer.
