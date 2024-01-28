@@ -46,5 +46,11 @@ I am a Web Developer And Graphic Designer.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=false" width="445" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafalanewala&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=false" alt="Mustafa Lanewala" width="390"/>
 
+
+## Activity
+
+![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafalanewala&custom_title=Mustafa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
 ## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mustafalanewala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
