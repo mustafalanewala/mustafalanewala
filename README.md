@@ -1,8 +1,8 @@
 <img src="banner.jpg" alt="Your Image" width="100%">
 
-## Hello I Am Mustafa Lanewala
+# Hello I Am Mustafa Lanewala
 
-[I am a Web Developer And Graphic Designer.]
+I am a Web Developer And Graphic Designer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
 
