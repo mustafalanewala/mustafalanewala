@@ -15,12 +15,22 @@
 
 ## 🔧 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-Your_Color?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Your_Color?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Your_Color?style=flat-square&logo=javascript&logoColor=white)
-![Tech/tool 1](https://img.shields.io/badge/Tech/tool1-Your_Color?style=flat-square&logo=tech1&logoColor=white)
-![Tech/tool 2](https://img.shields.io/badge/Tech/tool2-Your_Color?style=flat-square&logo=tech2&logoColor=white)
-...
+![HTML](https://img.shields.io/badge/HTML-Your_Color?style=flat-square&logo=html5&logoColor=white&color=2c3e50)
+![CSS](https://img.shields.io/badge/CSS-Your_Color?style=flat-square&logo=css3&logoColor=white&color=2c3e50)
+![JavaScript](https://img.shields.io/badge/JavaScript-Your_Color?style=flat-square&logo=javascript&logoColor=white&color=2c3e50)
+![Python](https://img.shields.io/badge/Python-Your_Color?style=flat-square&logo=python&logoColor=white&color=2c3e50)
+![Java](https://img.shields.io/badge/Java-Your_Color?style=flat-square&logo=java&logoColor=white&color=2c3e50)
+![C](https://img.shields.io/badge/C-Your_Color?style=flat-square&logo=c&logoColor=white&color=2c3e50)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Your_Color?style=flat-square&logo=bootstrap&logoColor=white&color=2c3e50)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Your_Color?style=flat-square&logo=tailwind-css&logoColor=white&color=2c3e50)
+![WordPress](https://img.shields.io/badge/WordPress-Your_Color?style=flat-square&logo=wordpress&logoColor=white&color=2c3e50)
+![React](https://img.shields.io/badge/React-Your_Color?style=flat-square&logo=react&logoColor=white&color=2c3e50)
+![SQL](https://img.shields.io/badge/SQL-Your_Color?style=flat-square&logo=sql&logoColor=white&color=2c3e50)
+![Figma](https://img.shields.io/badge/Figma-Your_Color?style=flat-square&logo=figma&logoColor=white&color=2c3e50)
+![Canva](https://img.shields.io/badge/Canva-Your_Color?style=flat-square&logo=canva&logoColor=white&color=2c3e50)
+![Git](https://img.shields.io/badge/Git-Your_Color?style=flat-square&logo=git&logoColor=white&color=2c3e50)
+![GitHub](https://img.shields.io/badge/GitHub-Your_Color?style=flat-square&logo=github&logoColor=white&color=2c3e50)
+
 
 ## 🏆 GitHub Badges
 
