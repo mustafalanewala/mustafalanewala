@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
 
+[![](https://visitcount.itsvg.in/api?id=Mustafalanewala&icon=5&color=9)](https://visitcount.itsvg.in)
+
 I am a Web Developer And Graphic Designer.
 
 - #### All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
@@ -11,7 +13,7 @@ I am a Web Developer And Graphic Designer.
 - #### How to reach me
 
 
-## GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mustafalanewala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## Tech Stack
@@ -32,3 +34,9 @@ I am a Web Developer And Graphic Designer.
 ![Git](https://img.shields.io/badge/Git-Your_Color?style=flat-square&logo=git&logoColor=white&color=222&labelColor=222)
 ![GitHub](https://img.shields.io/badge/GitHub-Your_Color?style=flat-square&logo=github&logoColor=white&color=222&labelColor=222)
 
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Mustafalanewala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafalanewala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mustafalanewala&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
