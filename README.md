@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
 
 
-##I am a Web Developer And Graphic Designer.
+## I am a Web Developer And Graphic Designer.
 
 - #### All of my projects are available at [Mustafalanewala.netlify.app](mustafalanewala.netlify.app)
 
