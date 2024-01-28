@@ -2,10 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat&color=red&logo=views&logoColor=white)
 
-<div align="center">
 
-![Walktime Stats](https://github-readme-stats.vercel.app/api/walktime?username=Mustafalanewala)
-![Followers](https://img.shields.io/github/followers/Mustafalanewala?label=Followers) ![Stars](https://img.shields.io/github/stars/Mustafalanewala?label=Stars)
+![Stars](https://github-readme-starred-repos.vercel.app/api?username=Mustafalanewala)
+
+
+![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=social)
+
+
 
 
 I am a Web Developer And Graphic Designer.
