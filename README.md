@@ -10,6 +10,13 @@ I am a Web Developer And Graphic Designer.
 
 - #### How to reach me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/your-instagram-profile/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&style=for-the-badge)](https://codepen.io/your-codepen-profile/)
+[![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&style=for-the-badge)](https://www.figma.com/your-figma-profile/)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/your-telegram-username/)
+
+
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mustafalanewala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
