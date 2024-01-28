@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&color=blue&style=flat-square)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Mustafalanewala&icon=5&color=9)](https://visitcount.itsvg.in)
-
 I am a Web Developer And Graphic Designer.
 
 - #### All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
