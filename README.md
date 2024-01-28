@@ -1,4 +1,4 @@
-# Hello I Am Mustafa Lanewala
+# Hie I am Mustafa Lanewala
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat&color=red&logo=views&logoColor=white)
 
