@@ -1,5 +1,4 @@
-<!-- Add your image here -->
-<img src="url_to_your_image" alt="Your Image" width="100%">
+<img src="banner.jpg" alt="Your Image" width="100%">
 
 # 👋 Hello, I'm [Your Name]!
 
