@@ -19,7 +19,7 @@ I am a Web Developer And Graphic Designer.
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-Your_Color?style=flat-square&logo=html5&logoColor=white&color=2c3e50)
+![HTML](https://img.shields.io/badge/HTML-Your_Color?style=flat-square&logo=html5&logoColor=white&color=111)
 ![CSS](https://img.shields.io/badge/CSS-Your_Color?style=flat-square&logo=css3&logoColor=white&color=2c3e50)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Your_Color?style=flat-square&logo=javascript&logoColor=white&color=2c3e50)
 ![Python](https://img.shields.io/badge/Python-Your_Color?style=flat-square&logo=python&logoColor=white&color=2c3e50)
