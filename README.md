@@ -4,7 +4,7 @@
 
 I am a Web Developer And Graphic Designer.
 
-- #### All of my projects are available at [Mustafalanewala.netlify.app](Mustafalanewala.netlify.app)
+- #### All of my projects are available at [Mustafalanewala.netlify.app](mustafalanewala.netlify.app)
 
 - #### I regularly write articles on [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
 
