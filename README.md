@@ -47,7 +47,7 @@
 
 ## GitHub Stats
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=false" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=false" width="1000" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafalanewala&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=false" alt="Mustafa Lanewala" />
 
 
