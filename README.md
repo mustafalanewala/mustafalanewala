@@ -8,10 +8,10 @@
 ## I am a Web Developer And Graphic Designer.
 
 - #### All of my projects are available at
-    [Mustafalanewala.netlify.app](https//mustafalanewala.netlify.app)
+    [Mustafalanewala.netlify.app](https://mustafalanewala.netlify.app/)
 
 - #### I regularly write articles on
-    [lanewalamustafa.medium.com](https//lanewalamustafa.medium.com)
+    [lanewalamustafa.medium.com](https://lanewalamustafa.medium.com/)
 
 
 ## How to reach me
@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/mustafa.lanewala/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&style=for-the-badge)](https://codepen.io/Mustafa-lanewala/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&style=for-the-badge)](https://www.figma.com/mustafalanewala/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/Habibi/)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/#/)
 
 
 ##  GitHub Trophies
