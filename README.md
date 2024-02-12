@@ -8,20 +8,20 @@
 ## I am a Web Developer And Graphic Designer.
 
 - #### All of my projects are available at
-    [Mustafalanewala.netlify.app](mustafalanewala.netlify.app)
+    [Mustafalanewala.netlify.app](https//mustafalanewala.netlify.app)
 
 - #### I regularly write articles on
-    [lanewalamustafa.medium.com](lanewalamustafa.medium.com)
+    [lanewalamustafa.medium.com](https//lanewalamustafa.medium.com)
 
 
 ## How to reach me
 
-[![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/your-instagram-profile/)
-[![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&style=for-the-badge)](https://codepen.io/your-codepen-profile/)
-[![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&style=for-the-badge)](https://www.figma.com/your-figma-profile/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/your-telegram-username/)
+[![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:https.mustafalanewala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mustafa-lanewala-m2004/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/mustafa.lanewala/)
+[![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&style=for-the-badge)](https://codepen.io/Mustafa-lanewala/)
+[![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&style=for-the-badge)](https://www.figma.com/mustafalanewala/)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/Habibi/)
 
 
 ##  GitHub Trophies
