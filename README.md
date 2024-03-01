@@ -50,8 +50,3 @@
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=true" width="480" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafalanewala&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Mustafa Lanewala" width="480"/>
-
-
-## Activity
-
-![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafalanewala&custom_title=Mustafa's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=00ffd2&line=00ffd2&point=00ffd2&area_color=FFFFFF&title_color=FFFFFF&area=true)
