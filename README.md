@@ -27,7 +27,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/#/)
 
 
-**Tech Stack**
+**Workflow**
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&style=for-the-badge)
