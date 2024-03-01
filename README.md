@@ -1,4 +1,8 @@
-# **Myself Mustafa Lanewala**
+👋 Welcome to my profile! I'm Mustafa Lanewala.
+
+- 🌐 Front End Web Developer
+- 🎨 UI/UX Designer
+- 💡 Creative Minded
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=blue&logo=views&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
