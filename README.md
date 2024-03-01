@@ -27,10 +27,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/#/)
 
 
-<! --- ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mustafalanewala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) --->
-
-
 ## Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
