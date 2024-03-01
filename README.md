@@ -1,8 +1,10 @@
-👋 Welcome to my profile! I'm Mustafa Lanewala.
+## 👋 Welcome to my profile! I'm Mustafa Lanewala.
 
-- 🌐 Front End Web Developer
+- 🎓 Computer Science(AI & DSA)
+- 👨‍💻 Front End Web Developer
 - 🎨 UI/UX Designer
-- 💡 Creative Minded
+- 💼 Business minded
+- 💡 Innovative Thinker
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=blue&logo=views&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
@@ -15,7 +17,7 @@
     [lanewalamustafa.medium.com](https://lanewalamustafa.medium.com/)
 
 
-How to reach me
+## How to reach me
 
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:https.mustafalanewala@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mustafa-lanewala-m2004/)
@@ -25,11 +27,11 @@ How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/#/)
 
 
-GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mustafalanewala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-Tech Stack
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&style=for-the-badge)
@@ -48,12 +50,12 @@ Tech Stack
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&style=for-the-badge)
 
 
-GitHub Stats
+## GitHub Stats
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=true" width="480" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafalanewala&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Mustafa Lanewala" width="480"/>
 
 
-Activity
+## Activity
 
 ![Mustafa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mustafalanewala&custom_title=Mustafa's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=00ffd2&line=00ffd2&point=00ffd2&area_color=FFFFFF&title_color=FFFFFF&area=true)
