@@ -1,5 +1,6 @@
-## 👋 Welcome to my profile! I'm Mustafa Lanewala
-- 🎓 Computer Science(AI & DSA)
+## 👋 Welcome to my profile! I'm Mustafa Lanewala.
+
+- 🎓 Computer Science(AI & DS)
 - 👨‍💻 Front End Web Developer
 - 🎨 UI/UX Designer
 - 💼 Business minded
