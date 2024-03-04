@@ -1,14 +1,14 @@
 ### 👋 Welcome to my profile! I'm Mustafa Lanewala.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=blue&logo=views&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
+
 - 🎓 Computer Science(AI & DS)
 - 👨‍💻 Front End Web Developer
 - 🎨 UI/UX Designer
 - 💼 Business minded
 - 💡 Innovative Thinker
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=blue&logo=views&logoColor=white)
-![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
 
 - All of my projects are available at
   [mustafalanewala.netlify.app](https://mustafalanewala.netlify.app/)
