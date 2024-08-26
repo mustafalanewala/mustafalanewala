@@ -28,6 +28,5 @@
 
 ### GITHUB STATS
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=true" width="480" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafalanewala&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Mustafa Lanewala" width="480"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=true" width="480" />
+<p style="display:flex; gap:1rem;"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=true" width="320" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafalanewala&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Mustafa Lanewala" width="295"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafalanewala&show_icons=true&theme=tokyonight&count_private=true" width="320" height="auto" /></p>
