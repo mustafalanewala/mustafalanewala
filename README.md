@@ -11,7 +11,7 @@
 ![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
 
 - All of my projects are available at
-  [mustafalanewala.netlify.app](https://mustafalanewala.netlify.app/)
+  [mustafalanewala.framer.ai](https://mustafalanewala.framer.ai/)
 
 - I regularly write articles on
   [lanewalamustafa.medium.com](https://lanewalamustafa.medium.com/)
