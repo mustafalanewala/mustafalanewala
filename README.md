@@ -23,7 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mustafa-lanewala-m2004/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/mustafa.lanewala/)
 [![CodePen](https://img.shields.io/badge/-CodePen-000?&logo=codepen&style=for-the-badge)](https://codepen.io/Mustafa-lanewala/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram&style=for-the-badge)](https://t.me/#/)
 
 
 ### GITHUB STATS
