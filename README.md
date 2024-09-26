@@ -13,7 +13,7 @@
 - All of my projects are available at
   [mustafalanewala.framer.ai](https://mustafalanewala.framer.ai/)
 
-- I regularly write articles on
+- I write articles on
   [lanewalamustafa.medium.com](https://lanewalamustafa.medium.com/)
 
 
