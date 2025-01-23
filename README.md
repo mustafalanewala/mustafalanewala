@@ -28,10 +28,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,redux,appwrite,django,mongodb,mysql,py,cpp,postman,vercel,firebase,vite,wordpress,figma)](https://skillicons.dev)
 
-
-### GITHUB STATS
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafalanewala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mustafalanewala&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
