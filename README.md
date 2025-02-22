@@ -26,5 +26,5 @@
 
 ### TECH STACK
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,redux,appwrite,django,mongodb,mysql,py,cpp,postman,vercel,firebase,vite,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,prisma,redux,postgresql,appwrite,django,mongodb,mysql,py,cpp,postman,vercel,firebase,vite,wordpress,figma)](https://skillicons.dev)
 
