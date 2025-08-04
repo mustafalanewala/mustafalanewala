@@ -11,7 +11,7 @@
 ![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
 
 - All of my projects are available at
-  [mustafalanewala.vercel.app](https://mustafalanewala.vercel.app/)
+  [www.mustafalanewala.dev](https://www.mustafalanewala.dev/)
 
 - I write articles on
   [lanewalamustafa.medium.com](https://lanewalamustafa.medium.com/)
