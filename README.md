@@ -1,7 +1,8 @@
 ### 👋 Welcome to my profile! I'm Mustafa Lanewala.
 
 - 🎓 Computer Science(AI & DS)
-- 👨‍💻 Full Stack Engineer
+- 👨‍💻 AI & Full Stack Engineer
+- 😎 Founder - MxNoor Solutions
 - 🎨 UI/UX Designer
 - 💼 Business minded
 - 💡 Innovative Thinker
