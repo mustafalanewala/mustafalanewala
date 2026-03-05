@@ -29,3 +29,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,prisma,redux,postgresql,appwrite,django,mongodb,mysql,py,cpp,postman,vercel,firebase,vite,wordpress,figma)](https://skillicons.dev)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98943421-7244-4789-9f39-444848a1998c" width="100%" />
+</p>
