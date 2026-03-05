@@ -1,34 +1,18 @@
-### 👋 Welcome to my profile! I'm Mustafa Lanewala.
+# Mustafa Lanewala
+**Founder & CEO @ Mx Solution | Product Engineer @ Ruby | AI & Full-Stack Engineer**
 
-- 🎓 Computer Science(AI & DS)
-- 👨‍💻 AI & Full Stack Engineer
-- 😎 Founder - MxNoor Solutions
-- 🎨 UI/UX Designer
-- 💼 Business minded
-- 💡 Innovative Thinker
+Building scalable digital products, intelligent AI integrations, and high-performance web architectures.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mustafalanewala&style=flat-square&color=blue&logo=views&logoColor=white)
-![Followers](https://img.shields.io/github/followers/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Mustafalanewala?style=flat-square&color=blue&logo=&logoColor=white)
+[Portfolio](https://www.mustafalanewala.dev/) • [LinkedIn](https://www.linkedin.com/in/mustafa-lanewala-m2004/) • [Email](mailto:https.mustafalanewala@gmail.com)
 
-- All of my projects are available at
-  [www.mustafalanewala.dev](https://www.mustafalanewala.dev/)
+<br>
 
-- I write articles on
-  [lanewalamustafa.medium.com](https://lanewalamustafa.medium.com/)
+### 🛠️ Tech Stack
 
+[![Core Stack](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,prisma,redux&perline=14)](https://skillicons.dev)
+<br>
+[![Backend & Tools](https://skillicons.dev/icons?i=postgresql,appwrite,django,mongodb,mysql,py,cpp,postman,vercel,firebase,vite,wordpress,figma&perline=14)](https://skillicons.dev)
 
-### HOW TO REACH ME
+<br>
 
-[![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&style=for-the-badge)](mailto:https.mustafalanewala@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mustafa-lanewala-m2004/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram&style=for-the-badge)](https://www.instagram.com/mustafa.lanewala/)
-
-
-### TECH STACK
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,prisma,redux,postgresql,appwrite,django,mongodb,mysql,py,cpp,postman,vercel,firebase,vite,wordpress,figma)](https://skillicons.dev)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/98943421-7244-4789-9f39-444848a1998c" width="100%" />
-</p>
+<img src="https://github.com/user-attachments/assets/e22c2d38-27e1-4fe7-92b2-726924d3c767" width="100%" loading="lazy" alt="Mustafa Lanewala" />
