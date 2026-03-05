@@ -3,11 +3,9 @@
 
 Building scalable digital products, intelligent AI integrations, and high-performance web architectures.
 
-[Portfolio](https://www.mustafalanewala.dev/) • [LinkedIn](https://www.linkedin.com/in/mustafa-lanewala-m2004/) • [Email](mailto:https.mustafalanewala@gmail.com)
+<a href="https://www.mustafalanewala.dev/"><img src="https://api.iconify.design/noto:globe-with-meridians.svg" width="32" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mustafa-lanewala-m2004/"><img src="https://api.iconify.design/skill-icons:linkedin.svg" width="32" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="mailto:https.mustafalanewala@gmail.com"><img src="https://api.iconify.design/logos:google-gmail.svg" width="38" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://www.instagram.com/mustafa.lanewala/"><img src="https://api.iconify.design/skill-icons:instagram.svg" width="32" align="center" /></a>
 
-<br>
-
-### 🛠️ Tech Stack
+## Tech Stack
 
 [![Core Stack](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,prisma,redux&perline=14)](https://skillicons.dev)
 <br>
