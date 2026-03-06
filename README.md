@@ -7,9 +7,9 @@ Building scalable digital products, intelligent AI integrations, and high-perfor
 
 ## Tech Stack
 
-[![Core Stack](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,tailwind,materialui,sass,git,prisma,redux&perline=14)](https://skillicons.dev)
+[![Core Stack](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,js,ts,react,nextjs,threejs,redux,nodejs,express,bun,nginx&perline=15)](https://skillicons.dev)
 <br>
-[![Backend & Tools](https://skillicons.dev/icons?i=postgresql,appwrite,django,mongodb,mysql,py,cpp,postman,vercel,firebase,vite,wordpress,figma&perline=14)](https://skillicons.dev)
+[![Backend & Tools](https://skillicons.dev/icons?i=py,cpp,django,postgresql,mysql,mongodb,prisma,redis,rabbitmq,supabase,firebase,appwrite,git,postman,vite,vercel,wordpress,figma&perline=18)](https://skillicons.dev)
 
 <br>
 
