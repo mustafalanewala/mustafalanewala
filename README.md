@@ -1,5 +1,5 @@
 # Mustafa Lanewala
-**Founder & CEO @ Mx Solution | Product Engineer @ Ruby | AI & Full-Stack Engineer**
+**Founder & CEO @Mx Solution | Product Engineer @Ruby | AI & Full-Stack Engineer**
 
 Building scalable digital products, intelligent AI integrations, and high-performance web architectures.
 
