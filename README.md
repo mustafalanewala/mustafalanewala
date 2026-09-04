@@ -3,7 +3,7 @@
 
 Building scalable digital products, intelligent AI integrations, and high-performance web architectures.
 
-<a href="https://www.mustafalanewala.dev/"><img src="https://api.iconify.design/noto:globe-with-meridians.svg" width="32" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mustafa-lanewala-m2004/"><img src="https://api.iconify.design/skill-icons:linkedin.svg" width="32" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="mailto:https.mustafalanewala@gmail.com"><img src="https://api.iconify.design/logos:google-gmail.svg" width="38" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://www.instagram.com/mustafa.lanewala/"><img src="https://api.iconify.design/skill-icons:instagram.svg" width="32" align="center" /></a>
+<a href="https://mustafalanewala.tech/"><img src="https://api.iconify.design/noto:globe-with-meridians.svg" width="32" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mustafa-lanewala-m2004/"><img src="https://api.iconify.design/skill-icons:linkedin.svg" width="32" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="mailto:https.mustafalanewala@gmail.com"><img src="https://api.iconify.design/logos:google-gmail.svg" width="38" align="center" /></a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://www.instagram.com/mustafa.lanewala/"><img src="https://api.iconify.design/skill-icons:instagram.svg" width="32" align="center" /></a>
 
 ## Tech Stack
 
